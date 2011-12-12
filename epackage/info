@@ -1,0 +1,28 @@
+Package: asciidoc-mode
+Section: languages
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: unmaintained
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream:
+Upstream-Bugs:
+Vcs-Type:
+Vcs-Url:
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/
+Commentary:
+X-Development:
+ Upstream address "Terrence Brannon <bauhaus@metaperl.com>"
+ no longer reponds 2011-12-12.
+Description: mode to edit Asciidoc markup files
+ To edit *.asciidoc.txt formatted files. for markup information, see
+ <http://freshmeat.net/projects/asciidoc>.
+ .
+ Note: 2011-12-12 the code hasn't been touched since 2009.
+ Dead-upstream.
