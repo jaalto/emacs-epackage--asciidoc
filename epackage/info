@@ -8,13 +8,10 @@ Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
 Upstream:
 Upstream-Bugs:
-Vcs-Type:
-Vcs-Url:
-Vcs-Args:
-Vcs-Browser:
-Vcs-User:
-Vcs-Password:
-Homepage:
+Vcs-Type: git
+Vcs-Url: git://github.com/metaperl/asciidoc-el.git
+Vcs-Browser: https://github.com/metaperl/asciidoc-el
+Homepage: https://github.com/metaperl/asciidoc-el
 Wiki: http://www.emacswiki.org/emacs/AsciiDoc
 Commentary:
 X-Development:
