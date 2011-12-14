@@ -19,7 +19,7 @@ Wiki: http://www.emacswiki.org/emacs/AsciiDoc
 Commentary:
 X-Development:
  Upstream address "Terrence Brannon <bauhaus@metaperl.com>"
- no longer reponds 2011-12-12.
+ fails 2011-12-12.
 Description: mode to edit Asciidoc markup files
  To edit *.asciidoc.txt formatted files. for markup information, see
  <http://freshmeat.net/projects/asciidoc>.
