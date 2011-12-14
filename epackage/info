@@ -1,4 +1,4 @@
-Package: asciidoc-mode
+Package: asciidoc-menu
 Section: languages
 License: GPL-2+
 Depends: emacs (>= 22)
@@ -17,9 +17,11 @@ Commentary:
 X-Development:
  Upstream address "Terrence Brannon <bauhaus@metaperl.com>"
  fails 2011-12-12.
-Description: mode to edit Asciidoc markup files
- To edit *.asciidoc.txt formatted files. for markup information, see
- <http://freshmeat.net/projects/asciidoc>.
+Description: menu for editing Asciidoc markup files
+ Function for editing *.asciidoc.txt and *.adoc files. This package
+ adds global "Doc" menu for editing commands.
+ .
+ For markup information, see <http://freshmeat.net/projects/asciidoc>.
  .
  Note: 2011-12-12 the code hasn't been touched since 2009.
  Dead-upstream.
