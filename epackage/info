@@ -6,7 +6,7 @@ Status: unmaintained
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream:
+Upstream: Terrence Brannon <metaperl@gmail.com>
 Upstream-Bugs:
 Vcs-Type: git
 Vcs-Url: git://github.com/metaperl/asciidoc-el.git
