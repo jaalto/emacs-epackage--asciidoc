@@ -1,5 +1,5 @@
  ;; Prevent loading this file. Study the examples.
-(error "asciidoc-mode-epkg-examples.el is not a config file.")
+(error "asciidoc-mode-epackage-examples.el is not a config file.")
 
 ;; Suggested add-ons doc-mode: font-lock support for asciidoc buffers
 ;; http://xpt.sourceforge.net/tools/doc-mode/

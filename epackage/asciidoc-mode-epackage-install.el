@@ -37,4 +37,4 @@
 (autoload 'asciidoc-href                        "asciidoc" "" t)
 (autoload 'asciidoc-relative-href               "asciidoc" "" t)
 (autoload 'asciidoc-image-href                  "asciidoc" "" t)
-(provide 'asciidoc-mode-epkg-install)
+(provide 'asciidoc-mode-epackage-install)
