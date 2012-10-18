@@ -27,7 +27,7 @@
 
 
 ;;; Commentary:
-;; 
+;;
 
 ;; Suggested add-ons:
 ;; doc-mode: font-locking for asciidoc buffers
@@ -52,7 +52,7 @@
 
 ;;; Code:
 
-(setq debug-on-error t)
+;(setq debug-on-error t)
 
 
 (require 'easymenu)
@@ -123,12 +123,6 @@
   (interactive "sText to be formatted for no change: ")
   (insert
    (concat "+++" text "+++")))
-
-(defun asciidoc-passthru-double-dollar (text)
-  "Insert TEXT with asciidoc double-dollar formatting."
-  (interactive "sText to be formatted for no change except escaping special characters: ")
-  (insert
-   (concat "$$" text "$$")))
 
 (defun asciidoc-passthru-double-dollar (text)
   "Insert TEXT with asciidoc double-dollar formatting."
@@ -415,7 +409,6 @@
 (easy-menu-define
   asciidoc-global-menu global-map "" asciidoc-global-menuspec)
 
-(provide 'asciidoc)
 (provide 'asciidoc)
 
 ;;; asciidoc.el ends here
